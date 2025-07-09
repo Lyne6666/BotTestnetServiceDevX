@@ -1,2 +1,1 @@
-# BotTestnetServiceDevX
-Advanced BotTestnetServiceDevX project
+.
